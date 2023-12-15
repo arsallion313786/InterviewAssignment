@@ -7,159 +7,17 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "4E1E87EC-0A54-48FF-9C36-7A4F400980D1"
+            uuid = "C94E540E-D84A-4A25-8448-FDBF958EE2FE"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "TechnologyAssessment/Core/domain/common/router/Router.swift"
+            filePath = "TechnologyAssessmentTests/ArticlesListViewModelTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "toPresent()"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "testViewDidLoad_whenSuccessful_shouldHaveArticles()"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6453AF57-B956-4FE5-B2E6-4074165BCD75"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TechnologyAssessmentTests/RepoArticleTest.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "test_FetchArticles_whenSuccessfull_shouldReturnArticles()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "6453AF57-B956-4FE5-B2E6-4074165BCD75 - d127898bffa8f4c0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for TechnologyAssessmentTests.RepoArticleTest.test_FetchArticles_whenSuccessfull_shouldReturnArticles() async throws -&gt; ()"
-                  moduleName = "TechnologyAssessmentTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessmentTests/RepoArticleTest.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "477">
-               </Location>
-               <Location
-                  uuid = "6453AF57-B956-4FE5-B2E6-4074165BCD75 - d127898bffa8f4c0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for TechnologyAssessmentTests.RepoArticleTest.test_FetchArticles_whenSuccessfull_shouldReturnArticles() async throws -&gt; ()"
-                  moduleName = "TechnologyAssessmentTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessmentTests/RepoArticleTest.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "470">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A8839A86-BCCD-4234-9458-D38CEA7ED393"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TechnologyAssessment/Core/data/api/parser/DataParser.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "parse(data:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "A8839A86-BCCD-4234-9458-D38CEA7ED393 - 7ac8d062417b5487"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TechnologyAssessment.DataParser.parse&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Foundation.Data) throws -&gt; &#x3c4;_0_0"
-                  moduleName = "TechnologyAssessment"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Core/data/api/parser/DataParser.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "68">
-               </Location>
-               <Location
-                  uuid = "A8839A86-BCCD-4234-9458-D38CEA7ED393 - 6be442641ce9f305"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TechnologyAssessmentTests.DataParser.parse&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Foundation.Data) throws -&gt; &#x3c4;_0_0"
-                  moduleName = "TechnologyAssessmentTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Core/data/api/parser/DataParser.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "68">
-               </Location>
-               <Location
-                  uuid = "A8839A86-BCCD-4234-9458-D38CEA7ED393 - 7ac8d062417b5487"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TechnologyAssessment.DataParser.parse&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Foundation.Data) throws -&gt; &#x3c4;_0_0"
-                  moduleName = "TechnologyAssessment"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Core/data/api/parser/DataParser.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "85">
-               </Location>
-               <Location
-                  uuid = "A8839A86-BCCD-4234-9458-D38CEA7ED393 - 6be442641ce9f305"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TechnologyAssessmentTests.DataParser.parse&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Foundation.Data) throws -&gt; &#x3c4;_0_0"
-                  moduleName = "TechnologyAssessmentTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Core/data/api/parser/DataParser.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "85">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "FB51DD7B-A93B-44B1-AE11-B8340A61123B"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TechnologyAssessment/Core/domain/models/Article.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "Article"
-            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

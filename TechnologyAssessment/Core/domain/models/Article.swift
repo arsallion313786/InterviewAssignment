@@ -32,26 +32,6 @@ struct Article:Decodable{
         case source
         case media
     }
-    
-//    init(from decoder: Decoder) throws {
-//        let container = try decoder.container(keyedBy: CodingKeys.self)
-//        self.id = try container.decode(Int.self, forKey: .id)
-//        self.title = try container.decode(String.self, forKey: .title)
-//        self.byline = try container.decode(String.self, forKey: .byline)
-//        self.abstract = try container.decode(String.self, forKey: .abstract)
-//        do{
-//            self.publishedDate = try container.decode(String.self, forKey: .publishedDate)
-//        }
-//        catch{
-//            self.publishedDate = "";
-//            print(error.localizedDescription)
-//        }
-//      
-//        self.source = try container.decode(String.self, forKey: .source)
-//        self.media = try container.decode(Media.self, forKey: .media)
-//    }
-    
-    
 }
 
 struct Media:Decodable{
