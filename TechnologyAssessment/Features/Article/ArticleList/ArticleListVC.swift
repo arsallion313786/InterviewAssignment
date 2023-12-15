@@ -19,6 +19,7 @@ class ArticleListVC: UIViewController {
     
     private var viewModelStateCancellable: AnyCancellable?
     private let viewModel:ArticlesListViewModel
+    var didShowArticleDetail:((_ article:Article) ->Void)?
     
     
     
@@ -79,7 +80,7 @@ class ArticleListVC: UIViewController {
 
 extension ArticleListVC: UITableViewDelegate {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        
+        self.didShowArticleDetail?(self.viewModel.articleViewModel(for: indexPath).article)
     }
 }
 

@@ -66,7 +66,7 @@ final class ArticlesListViewModelTests: XCTestCase {
             
             XCTAssertEqual(articleViewModel.source,"Source for \(index)")
             
-            XCTAssertEqual(articleViewModel.url.absoluteString,"https://static01.nyt.com/images/\(index)")
+            XCTAssertEqual(articleViewModel.url!.absoluteString,"https://static01.nyt.com/images/\(index)")
         }
     }
     
@@ -135,7 +135,7 @@ final class ArticlesListViewModelTests: XCTestCase {
         
         XCTAssertEqual(articleViewModel.source,"Source for 1")
         
-        XCTAssertEqual(articleViewModel.url.absoluteString,"https://static01.nyt.com/images/1")
+        XCTAssertEqual(articleViewModel.url!.absoluteString,"https://static01.nyt.com/images/1")
         
         // When
       articleViewModel = viewModel.articleViewModel(for: IndexPath(row: 5, section: 0))
@@ -145,7 +145,7 @@ final class ArticlesListViewModelTests: XCTestCase {
         XCTAssertEqual(articleViewModel.byLine, "ByLine for 6")
         XCTAssertEqual(articleViewModel.publishDate,"2023-12-6")
         XCTAssertEqual(articleViewModel.source,"Source for 6")
-        XCTAssertEqual(articleViewModel.url.absoluteString,"https://static01.nyt.com/images/6")
+        XCTAssertEqual(articleViewModel.url!.absoluteString,"https://static01.nyt.com/images/6")
       
       // When
         articleViewModel = viewModel.articleViewModel(for: IndexPath(row: 8, section: 0))
@@ -156,7 +156,7 @@ final class ArticlesListViewModelTests: XCTestCase {
         XCTAssertEqual(articleViewModel.byLine, "ByLine for 9")
         XCTAssertEqual(articleViewModel.publishDate,"2023-12-9")
         XCTAssertEqual(articleViewModel.source,"Source for 9")
-        XCTAssertEqual(articleViewModel.url.absoluteString,"https://static01.nyt.com/images/9")
+        XCTAssertEqual(articleViewModel.url!.absoluteString,"https://static01.nyt.com/images/9")
     }
     
     

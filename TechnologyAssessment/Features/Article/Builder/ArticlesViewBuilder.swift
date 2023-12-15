@@ -16,4 +16,13 @@ struct ArticlesViewBuilder{
         }
     }
     
+    static func makeArticleDetailViewController(article:Article) -> UIViewController?{
+        UIStoryboard(name: .article)
+            .instantiateViewController(identifier: "ArticleDetailVC", creator: { coder in
+                ArticleDetailVC(viewModel: ArticleDetailVCViewModel(article: article), coder: coder)
+            })
+    }
+    
+    
+    
 }
