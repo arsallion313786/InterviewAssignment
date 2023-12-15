@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA3B9DD6-039D-43EC-A570-655A445F87A5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96E24E56-E798-4A9C-A927-5C9CBD827AE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Features/Article/ArticleList/ArticleListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96E24E56-E798-4A9C-A927-5C9CBD827AE9 - ec4b4362807e06a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.ArticleListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Features/Article/ArticleList/ArticleListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "96E24E56-E798-4A9C-A927-5C9CBD827AE9 - ec4b4362807e067e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.ArticleListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Features/Article/ArticleList/ArticleListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1DF97B8-3D0A-434A-BB3B-1614B21B8163"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Core/domain/common/extensions/UIStoryboard+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(name:bundle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B331A4DB-1C56-4508-9B4D-E95B45C7F872"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Core/domain/common/router/Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "setRootModule(_:hideBar:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34D24760-EE7C-41A7-9CA6-1850552D0B2B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Startup/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34D24760-EE7C-41A7-9CA6-1850552D0B2B - aaf82e0fc7c6fac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.AppCoordinator.init(window: __C.UIWindow, router: TechnologyAssessment.RouterProtocol) -&gt; TechnologyAssessment.AppCoordinator"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Startup/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "34D24760-EE7C-41A7-9CA6-1850552D0B2B - 9829eb66087d2e83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.AppCoordinator.start() -&gt; ()"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Startup/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1FA2A61-8364-412C-8D45-113FD0013F14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Startup/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1FA2A61-8364-412C-8D45-113FD0013F14 - 97423ca9cff7ae12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.AppCoordinator.__allocating_init(window: __C.UIWindow, router: TechnologyAssessment.RouterProtocol) -&gt; TechnologyAssessment.AppCoordinator"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Startup/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "A1FA2A61-8364-412C-8D45-113FD0013F14 - aaf82e0fc7c6fb69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.AppCoordinator.init(window: __C.UIWindow, router: TechnologyAssessment.RouterProtocol) -&gt; TechnologyAssessment.AppCoordinator"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Startup/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A1FA2A61-8364-412C-8D45-113FD0013F14 - 9829eb66087d2f41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnologyAssessment.AppCoordinator.start() -&gt; ()"
+                  moduleName = "TechnologyAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadarslankhalid/Documents/Documents%20-%20Muhammad%E2%80%99s%20MacBook%20Pro/Projects/Assignments/InnovativeSolutions/TechnologyAssessment/TechnologyAssessment/Startup/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1F65169-12EE-4427-B950-6F30D3F9E4E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Features/Article/Coordinators/ArticleListViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E1E87EC-0A54-48FF-9C36-7A4F400980D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Core/domain/common/router/Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "toPresent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F70C022-23F4-47CA-B811-0248091CB1C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnologyAssessment/Core/domain/common/coordinator/BaseCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(router:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
