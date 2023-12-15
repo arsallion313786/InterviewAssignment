@@ -36,6 +36,7 @@
 		DD28E1BC2B2BF0C800F9D456 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1BB2B2BF0C800F9D456 /* NetworkError.swift */; };
 		DD28E1BF2B2BF0E800F9D456 /* RequestProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1BE2B2BF0E800F9D456 /* RequestProtocol.swift */; };
 		DD28E1C12B2BF0FD00F9D456 /* RequestType.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1C02B2BF0FD00F9D456 /* RequestType.swift */; };
+		DD28E1C52B2BF1BB00F9D456 /* ArticleCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1C42B2BF1BB00F9D456 /* ArticleCellViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		DD28E1BB2B2BF0C800F9D456 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 		DD28E1BE2B2BF0E800F9D456 /* RequestProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestProtocol.swift; sourceTree = "<group>"; };
 		DD28E1C02B2BF0FD00F9D456 /* RequestType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestType.swift; sourceTree = "<group>"; };
+		DD28E1C42B2BF1BB00F9D456 /* ArticleCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleCellViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -263,6 +265,7 @@
 			isa = PBXGroup;
 			children = (
 				DD28E19A2B2B9C6900F9D456 /* ArticleListVC.swift */,
+				DD28E1C22B2BF18900F9D456 /* ViewModel */,
 				DD28E1A82B2BEB8400F9D456 /* Cell */,
 			);
 			path = ArticleList;
@@ -297,6 +300,7 @@
 			children = (
 				DD28E1A92B2BEBB700F9D456 /* ArticleCell.swift */,
 				DD28E1AA2B2BEBB700F9D456 /* ArticleCell.xib */,
+				DD28E1C42B2BF1BB00F9D456 /* ArticleCellViewModel.swift */,
 			);
 			path = Cell;
 			sourceTree = "<group>";
@@ -345,6 +349,13 @@
 				DD28E1C02B2BF0FD00F9D456 /* RequestType.swift */,
 			);
 			path = request;
+			sourceTree = "<group>";
+		};
+		DD28E1C22B2BF18900F9D456 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -485,6 +496,7 @@
 				DD28E1A72B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift in Sources */,
 				DD28E1A42B2B9D9B00F9D456 /* UIStoryboard+Extension.swift in Sources */,
 				DD28E1B22B2BF01F00F9D456 /* APIConstants.swift in Sources */,
+				DD28E1C52B2BF1BB00F9D456 /* ArticleCellViewModel.swift in Sources */,
 				DD28E1BF2B2BF0E800F9D456 /* RequestProtocol.swift in Sources */,
 				DD28E1AB2B2BEBB700F9D456 /* ArticleCell.swift in Sources */,
 				DD28E1B52B2BF06D00F9D456 /* DataParser.swift in Sources */,
