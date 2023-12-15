@@ -61,7 +61,7 @@ final class ArticlesListViewModelTests: XCTestCase {
           let articleViewModel = viewModel.articleViewModel(for: IndexPath(row: index-1, section: 0))
           
           XCTAssertEqual(articleViewModel.title, "Title for \(index)")
-            XCTAssertEqual(articleViewModel.abstract, "Abstract for \(index)")
+            XCTAssertEqual(articleViewModel.byLine, "ByLine for \(index)")
             XCTAssertEqual(articleViewModel.publishDate,"2023-12-\(index)")
             
             XCTAssertEqual(articleViewModel.source,"Source for \(index)")
@@ -130,7 +130,7 @@ final class ArticlesListViewModelTests: XCTestCase {
         
         // Then
         XCTAssertEqual(articleViewModel.title, "Title for 1")
-        XCTAssertEqual(articleViewModel.abstract, "Abstract for 1")
+        XCTAssertEqual(articleViewModel.byLine, "ByLine for 1")
         XCTAssertEqual(articleViewModel.publishDate,"2023-12-1")
         
         XCTAssertEqual(articleViewModel.source,"Source for 1")
@@ -142,7 +142,7 @@ final class ArticlesListViewModelTests: XCTestCase {
       
       // Then
         XCTAssertEqual(articleViewModel.title, "Title for 6")
-        XCTAssertEqual(articleViewModel.abstract, "Abstract for 6")
+        XCTAssertEqual(articleViewModel.byLine, "ByLine for 6")
         XCTAssertEqual(articleViewModel.publishDate,"2023-12-6")
         XCTAssertEqual(articleViewModel.source,"Source for 6")
         XCTAssertEqual(articleViewModel.url.absoluteString,"https://static01.nyt.com/images/6")
@@ -153,7 +153,7 @@ final class ArticlesListViewModelTests: XCTestCase {
       
       // Then
         XCTAssertEqual(articleViewModel.title, "Title for 9")
-        XCTAssertEqual(articleViewModel.abstract, "Abstract for 9")
+        XCTAssertEqual(articleViewModel.byLine, "ByLine for 9")
         XCTAssertEqual(articleViewModel.publishDate,"2023-12-9")
         XCTAssertEqual(articleViewModel.source,"Source for 9")
         XCTAssertEqual(articleViewModel.url.absoluteString,"https://static01.nyt.com/images/9")

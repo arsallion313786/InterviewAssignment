@@ -24,7 +24,7 @@ final class RepoArticleTest: XCTestCase {
         var article = articles[0]
         XCTAssertEqual(article.id, 100000009215537)
         XCTAssertEqual(article.title, "Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism")
-        XCTAssertEqual(article.abstract, "Congress has opened an investigation into Harvard, M.I.T. and University of Pennsylvania, a $100 million gift was withdrawn, and demands have grown for the universities’ presidents to resign.")
+        XCTAssertEqual(article.byline, "By Alan Blinder, Anemona Hartocollis and Stephanie Saul")
         XCTAssertEqual(article.media.first!.mediaMetaData.first!.url, "https://static01.nyt.com/images/2023/12/07/multimedia/07nat-colleges-devels-mhjl/07nat-colleges-devels-mhjl-thumbStandard.jpg")
         XCTAssertEqual(article.publishedDate, "2023-12-07")
         XCTAssertEqual(article.source, "New York Times")
@@ -32,7 +32,7 @@ final class RepoArticleTest: XCTestCase {
         article = articles[19]
         XCTAssertEqual(article.id, 100000009218301)
         XCTAssertEqual(article.title, "As Harvard President Faces Pressure to Resign, Some Faculty Show Support")
-        XCTAssertEqual(article.abstract, "Claudine Gay, Harvard’s president, faced rising pressure after her answers to questions about antisemitism. Some faculty members signed a petition supporting her.")
+        XCTAssertEqual(article.byline, "By Jeremy W. Peters, Dana Goldstein and Rob Copeland")
         XCTAssertEqual(article.media.first!.mediaMetaData.first!.url, "https://static01.nyt.com/images/2023/12/10/multimedia/10nat-harvard-1-jpqz/10nat-harvard-1-jpqz-thumbStandard.jpg")
         XCTAssertEqual(article.publishedDate, "2023-12-10")
         XCTAssertEqual(article.source, "New York Times")

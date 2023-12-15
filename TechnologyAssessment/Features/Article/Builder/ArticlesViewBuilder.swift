@@ -12,7 +12,7 @@ struct ArticlesViewBuilder{
     static func makeArticleListViewController() -> UIViewController?{
         UIStoryboard(name: .article)
           .instantiateInitialViewController { coder in
-         ArticleListVC(coder: coder)
+         ArticleListVC(viewModel: ArticlesListViewModel(repo: ArticleRepoImpl()), coder: coder)
         }
     }
     

@@ -12,8 +12,8 @@ struct ArticleCellViewModel{
         self.article.title
     }
     
-    var abstract:String{
-        self.article.abstract
+    var byLine:String{
+        self.article.byline
     }
     
     var publishDate:String{
@@ -24,8 +24,12 @@ struct ArticleCellViewModel{
         self.article.source
     }
     
-    var url: URL {
-        URL(string: self.article.media.first!.mediaMetaData.first!.url)!
+    var url: URL? {
+        if let urlStr = self.article.media.first?.mediaMetaData.first?.url{
+           return  URL(string: urlStr)
+        }
+        return nil;
+       
     }
 
     
