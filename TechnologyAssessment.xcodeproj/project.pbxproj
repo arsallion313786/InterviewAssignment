@@ -29,6 +29,13 @@
 		DD28E1AB2B2BEBB700F9D456 /* ArticleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1A92B2BEBB700F9D456 /* ArticleCell.swift */; };
 		DD28E1AC2B2BEBB700F9D456 /* ArticleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DD28E1AA2B2BEBB700F9D456 /* ArticleCell.xib */; };
 		DD28E1AF2B2BED0300F9D456 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1AE2B2BED0300F9D456 /* Article.swift */; };
+		DD28E1B22B2BF01F00F9D456 /* APIConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1B12B2BF01F00F9D456 /* APIConstants.swift */; };
+		DD28E1B52B2BF06D00F9D456 /* DataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1B42B2BF06D00F9D456 /* DataParser.swift */; };
+		DD28E1B82B2BF09C00F9D456 /* RequestManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1B72B2BF09C00F9D456 /* RequestManager.swift */; };
+		DD28E1BA2B2BF0B200F9D456 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1B92B2BF0B200F9D456 /* APIManager.swift */; };
+		DD28E1BC2B2BF0C800F9D456 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1BB2B2BF0C800F9D456 /* NetworkError.swift */; };
+		DD28E1BF2B2BF0E800F9D456 /* RequestProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1BE2B2BF0E800F9D456 /* RequestProtocol.swift */; };
+		DD28E1C12B2BF0FD00F9D456 /* RequestType.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1C02B2BF0FD00F9D456 /* RequestType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +82,13 @@
 		DD28E1A92B2BEBB700F9D456 /* ArticleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleCell.swift; sourceTree = "<group>"; };
 		DD28E1AA2B2BEBB700F9D456 /* ArticleCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ArticleCell.xib; sourceTree = "<group>"; };
 		DD28E1AE2B2BED0300F9D456 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		DD28E1B12B2BF01F00F9D456 /* APIConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConstants.swift; sourceTree = "<group>"; };
+		DD28E1B42B2BF06D00F9D456 /* DataParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataParser.swift; sourceTree = "<group>"; };
+		DD28E1B72B2BF09C00F9D456 /* RequestManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestManager.swift; sourceTree = "<group>"; };
+		DD28E1B92B2BF0B200F9D456 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		DD28E1BB2B2BF0C800F9D456 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
+		DD28E1BE2B2BF0E800F9D456 /* RequestProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestProtocol.swift; sourceTree = "<group>"; };
+		DD28E1C02B2BF0FD00F9D456 /* RequestType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +188,7 @@
 		DD28E1842B2B84CD00F9D456 /* data */ = {
 			isa = PBXGroup;
 			children = (
+				DD28E1B02B2BF00200F9D456 /* api */,
 			);
 			path = data;
 			sourceTree = "<group>";
@@ -292,6 +307,44 @@
 				DD28E1AE2B2BED0300F9D456 /* Article.swift */,
 			);
 			path = models;
+			sourceTree = "<group>";
+		};
+		DD28E1B02B2BF00200F9D456 /* api */ = {
+			isa = PBXGroup;
+			children = (
+				DD28E1B32B2BF06100F9D456 /* parser */,
+				DD28E1B62B2BF08000F9D456 /* network */,
+				DD28E1BD2B2BF0D300F9D456 /* request */,
+				DD28E1B12B2BF01F00F9D456 /* APIConstants.swift */,
+			);
+			path = api;
+			sourceTree = "<group>";
+		};
+		DD28E1B32B2BF06100F9D456 /* parser */ = {
+			isa = PBXGroup;
+			children = (
+				DD28E1B42B2BF06D00F9D456 /* DataParser.swift */,
+			);
+			path = parser;
+			sourceTree = "<group>";
+		};
+		DD28E1B62B2BF08000F9D456 /* network */ = {
+			isa = PBXGroup;
+			children = (
+				DD28E1B72B2BF09C00F9D456 /* RequestManager.swift */,
+				DD28E1B92B2BF0B200F9D456 /* APIManager.swift */,
+				DD28E1BB2B2BF0C800F9D456 /* NetworkError.swift */,
+			);
+			path = network;
+			sourceTree = "<group>";
+		};
+		DD28E1BD2B2BF0D300F9D456 /* request */ = {
+			isa = PBXGroup;
+			children = (
+				DD28E1BE2B2BF0E800F9D456 /* RequestProtocol.swift */,
+				DD28E1C02B2BF0FD00F9D456 /* RequestType.swift */,
+			);
+			path = request;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -427,11 +480,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD28E1952B2B93E900F9D456 /* Router.swift in Sources */,
+				DD28E1BA2B2BF0B200F9D456 /* APIManager.swift in Sources */,
 				DD28E1532B2B7D9700F9D456 /* AppDelegate.swift in Sources */,
 				DD28E1A72B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift in Sources */,
 				DD28E1A42B2B9D9B00F9D456 /* UIStoryboard+Extension.swift in Sources */,
+				DD28E1B22B2BF01F00F9D456 /* APIConstants.swift in Sources */,
+				DD28E1BF2B2BF0E800F9D456 /* RequestProtocol.swift in Sources */,
 				DD28E1AB2B2BEBB700F9D456 /* ArticleCell.swift in Sources */,
+				DD28E1B52B2BF06D00F9D456 /* DataParser.swift in Sources */,
 				DD28E1902B2B91D700F9D456 /* BaseCoordinator.swift in Sources */,
+				DD28E1BC2B2BF0C800F9D456 /* NetworkError.swift in Sources */,
 				DD28E1892B2B912D00F9D456 /* Coordinator.swift in Sources */,
 				DD28E1922B2B934100F9D456 /* CoordinatorOutput.swift in Sources */,
 				DD28E18C2B2B917500F9D456 /* ViewController+Coordinator.swift in Sources */,
@@ -439,6 +497,8 @@
 				DD28E19B2B2B9C6900F9D456 /* ArticleListVC.swift in Sources */,
 				DD28E18E2B2B918E00F9D456 /* Presentable.swift in Sources */,
 				DD28E1A22B2B9D2800F9D456 /* ArticlesViewBuilder.swift in Sources */,
+				DD28E1B82B2BF09C00F9D456 /* RequestManager.swift in Sources */,
+				DD28E1C12B2BF0FD00F9D456 /* RequestType.swift in Sources */,
 				DD28E1552B2B7D9700F9D456 /* SceneDelegate.swift in Sources */,
 				DD28E1AF2B2BED0300F9D456 /* Article.swift in Sources */,
 			);
