@@ -4,6 +4,10 @@
 
 I have used Swift languge for development.
 
+### Architecture Patteren 
+
+I have used MVVM-C patteren for this application
+
 ### Summary
 
 We have two pages. One for Listing Articles and second for Article Detail.
