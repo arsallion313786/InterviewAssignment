@@ -1,0 +1,1315 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/c29a1384-f361-55d9-8e6d-7a9eb2e73a24",
+            "url": "https://www.nytimes.com/2023/12/07/us/university-of-pennsylvania-mit-harvard-antisemitism.html",
+            "id": 100000009215537,
+            "asset_id": 100000009215537,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-07 22:49:27",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;United States Politics and Government;Anti-Semitism;Jews and Judaism;Magill, Elizabeth;Foxx, Virginia;Gay, Claudine;Gillibrand, Kirsten E;Kornbluth, Sally A;Shapiro, Josh (1973- );Stefanik, Elise;Harvard University;Massachusetts Institute of Technology;House of Representatives;University of Pennsylvania",
+            "column": null,
+            "byline": "By Alan Blinder, Anemona Hartocollis and Stephanie Saul",
+            "type": "Article",
+            "title": "Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism",
+            "abstract": "Congress has opened an investigation into Harvard, M.I.T. and University of Pennsylvania, a $100 million gift was withdrawn, and demands have grown for the universities’ presidents to resign.",
+            "des_facet": [
+                "Colleges and Universities",
+                "United States Politics and Government",
+                "Anti-Semitism",
+                "Jews and Judaism"
+            ],
+            "org_facet": [
+                "Harvard University",
+                "Massachusetts Institute of Technology",
+                "House of Representatives",
+                "University of Pennsylvania"
+            ],
+            "per_facet": [
+                "Magill, Elizabeth",
+                "Foxx, Virginia",
+                "Gay, Claudine",
+                "Gillibrand, Kirsten E",
+                "Kornbluth, Sally A",
+                "Shapiro, Josh (1973- )",
+                "Stefanik, Elise"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harvard’s president, Claudine Gay, left, and the University of Pennsylvania’s president, Elizabeth Magill, have been increasingly under attack after their testimony on Tuesday.",
+                    "copyright": "Mark Schiefelbein/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07nat-colleges-devels-mhjl/07nat-colleges-devels-mhjl-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07nat-colleges-devels-mhjl/07nat-colleges-devels-mhjl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07nat-colleges-devels-mhjl/07nat-colleges-devels-mhjl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3b08c340-a34f-5bcc-94f2-6d510ae8eb98",
+            "url": "https://www.nytimes.com/2023/12/12/opinion/israel-gaza-saudi-arabia.html",
+            "id": 100000009221186,
+            "asset_id": 100000009221186,
+            "source": "New York Times",
+            "published_date": "2023-12-12",
+            "updated": "2023-12-13 19:04:31",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Israel-Gaza War (2023- );Palestinians;Civilian Casualties;Terrorism;International Relations;Mohammed bin Salman (1985- );Netanyahu, Benjamin;Palestinian Authority;Hamas;Gaza Strip;Israel;Saudi Arabia;United Arab Emirates",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "What Worries Me About the Gaza War After My Trip to Arab States",
+            "abstract": "A legitimate Palestinian partner and a commitment to negotiating a two-state solution are key.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Civilian Casualties",
+                "Terrorism",
+                "International Relations"
+            ],
+            "org_facet": [
+                "Palestinian Authority",
+                "Hamas"
+            ],
+            "per_facet": [
+                "Mohammed bin Salman (1985- )",
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel",
+                "Saudi Arabia",
+                "United Arab Emirates"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Destruction in Gaza City.",
+                    "copyright": "Mohammed Hajjar/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/14/multimedia/12friedman-1-mqlv/12friedman-1-mqlv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0774b955-6c62-51e7-99f3-1759058efabf",
+            "url": "https://www.nytimes.com/2023/12/12/arts/television/andre-braugher-dead.html",
+            "id": 100000009222734,
+            "asset_id": 100000009222734,
+            "source": "New York Times",
+            "published_date": "2023-12-12",
+            "updated": "2023-12-13 19:52:12",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Television;Movies;Braugher, Andre",
+            "column": null,
+            "byline": "By Alex Williams and Mike Ives",
+            "type": "Article",
+            "title": "Andre Braugher, Actor on ‘Homicide’ and ‘Brooklyn Nine-Nine,’ Dies at 61",
+            "abstract": "He was best known for playing stoic police officers on two acclaimed but very different television series — one an intense drama, the other a comedy.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Actors and Actresses",
+                "Television",
+                "Movies"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Braugher, Andre"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The actor Andre Braugher in 2018. He appeared on several acclaimed television series, most notably “Homicide” and “Brooklyn Nine-Nine.”",
+                    "copyright": "Chris Pizzello/Invision, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/14/multimedia/12xp-braugher-hqlz-print1/12xp-braugher-hqlz-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/14/multimedia/12xp-braugher-hqlz-print1/12xp-braugher-hqlz-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/14/multimedia/12xp-braugher-hqlz-print1/12xp-braugher-hqlz-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a77c5db0-e315-5ff5-a19c-a4fb8a4e4a9f",
+            "url": "https://www.nytimes.com/2023/12/10/us/universities-antisemitism-conservatives-liberals.html",
+            "id": 100000009217888,
+            "asset_id": 100000009217888,
+            "source": "New York Times",
+            "published_date": "2023-12-10",
+            "updated": "2023-12-11 05:32:29",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Israel-Gaza War (2023- );Colleges and Universities;Anti-Semitism;Discrimination;Censorship;Conspiracy Theories;Freedom of Speech and Expression;Race and Ethnicity;Conservatism (US Politics);Liberalism (US Politics);Gay, Claudine;Kornbluth, Sally A;Magill, Elizabeth;Stefanik, Elise;Haley, Nikki R;DeSantis, Ron;Democratic Party;Republican Party;Harvard University;University of Pennsylvania;Massachusetts Institute of Technology;United States",
+            "column": null,
+            "byline": "By Nicholas Confessore",
+            "type": "Article",
+            "title": "As Fury Erupts Over Campus Antisemitism, Conservatives Seize the Moment",
+            "abstract": "Republicans have been attacking elite universities for years. After a tense congressional hearing last week, many on the left are joining them.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Colleges and Universities",
+                "Anti-Semitism",
+                "Discrimination",
+                "Censorship",
+                "Conspiracy Theories",
+                "Freedom of Speech and Expression",
+                "Race and Ethnicity",
+                "Conservatism (US Politics)",
+                "Liberalism (US Politics)"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party",
+                "Harvard University",
+                "University of Pennsylvania",
+                "Massachusetts Institute of Technology"
+            ],
+            "per_facet": [
+                "Gay, Claudine",
+                "Kornbluth, Sally A",
+                "Magill, Elizabeth",
+                "Stefanik, Elise",
+                "Haley, Nikki R",
+                "DeSantis, Ron"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harvard was one of three universities last week whose presidents testified in Washington at a hearing on antisemitism.",
+                    "copyright": "David Degner for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10antisemitism-Q-1-cpft/10antisemitism-Q-1-cpft-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10antisemitism-Q-1-cpft/10antisemitism-Q-1-cpft-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10antisemitism-Q-1-cpft/10antisemitism-Q-1-cpft-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/096cc34d-3557-5d5b-8a61-71966a34eddc",
+            "url": "https://www.nytimes.com/2023/12/07/technology/tech-startups-collapse.html",
+            "id": 100000009185462,
+            "asset_id": 100000009185462,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-09 05:21:03",
+            "section": "Technology",
+            "subsection": "",
+            "nytdsection": "technology",
+            "adx_keywords": "Computers and the Internet;Start-ups;Bankruptcies;Shutdowns (Institutional);Venture Capital;Entrepreneurship;Bird Rides Inc;Carta Inc;WeWork Companies Inc",
+            "column": null,
+            "byline": "By Erin Griffith",
+            "type": "Article",
+            "title": "From Unicorns to Zombies: Tech Start-Ups Run Out of Time and Money",
+            "abstract": "After staving off collapse by cutting costs, many young tech companies are out of options, fueling a cash bonfire.",
+            "des_facet": [
+                "Computers and the Internet",
+                "Start-ups",
+                "Bankruptcies",
+                "Shutdowns (Institutional)",
+                "Venture Capital",
+                "Entrepreneurship"
+            ],
+            "org_facet": [
+                "Bird Rides Inc",
+                "Carta Inc",
+                "WeWork Companies Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Antonio Sortino",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/business/00cash-bonfire/00cash-bonfire-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/business/00cash-bonfire/00cash-bonfire-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/business/00cash-bonfire/00cash-bonfire-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a44d3ef1-b8ad-587c-89a9-177c0b4f654b",
+            "url": "https://www.nytimes.com/2023/12/07/opinion/university-presidents-antisemitism.html",
+            "id": 100000009214818,
+            "asset_id": 100000009214818,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-10 19:32:40",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Colleges and Universities;Anti-Semitism;Freedom of Speech and Expression;Jews and Judaism;Israel-Gaza War (2023- );United States Politics and Government;Gay, Claudine;Magill, Elizabeth;Kornbluth, Sally A;Stefanik, Elise;House of Representatives;Harvard University;Massachusetts Institute of Technology;University of Pennsylvania;Israel;Gaza Strip",
+            "column": null,
+            "byline": "By Michelle Goldberg",
+            "type": "Article",
+            "title": "At a Hearing on Israel, University Presidents Walked Into a Trap",
+            "abstract": "The nationwide uproar is likely to lead to a crackdown on pro-Palestinian speech.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Anti-Semitism",
+                "Freedom of Speech and Expression",
+                "Jews and Judaism",
+                "Israel-Gaza War (2023- )",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "House of Representatives",
+                "Harvard University",
+                "Massachusetts Institute of Technology",
+                "University of Pennsylvania"
+            ],
+            "per_facet": [
+                "Gay, Claudine",
+                "Magill, Elizabeth",
+                "Kornbluth, Sally A",
+                "Stefanik, Elise"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elise Stefanik",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/07goldberg-vfzg/07goldberg-vfzg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/07goldberg-vfzg/07goldberg-vfzg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/07goldberg-vfzg/07goldberg-vfzg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/85cc3d54-d736-5d05-8315-38ceae716375",
+            "url": "https://www.nytimes.com/2023/12/10/world/middleeast/israel-qatar-money-prop-up-hamas.html",
+            "id": 100000009210265,
+            "asset_id": 100000009210265,
+            "source": "New York Times",
+            "published_date": "2023-12-10",
+            "updated": "2023-12-12 08:21:20",
+            "section": "World",
+            "subsection": "Middle East",
+            "nytdsection": "world",
+            "adx_keywords": "Israel-Gaza War (2023- );Politics and Government;Defense and Military Forces;Palestinians;Terrorism;Espionage and Intelligence Services;International Relations;Foreign Investments;Netanyahu, Benjamin;Hamas;Mossad;Palestinian Authority;Israel;Gaza Strip;Qatar",
+            "column": null,
+            "byline": "By Mark Mazzetti and Ronen Bergman",
+            "type": "Article",
+            "title": "‘Buying Quiet’: Inside the Israeli Plan That Propped Up Hamas",
+            "abstract": "Prime Minister Benjamin Netanyahu gambled that a strong Hamas (but not too strong) would keep the peace and reduce pressure for a Palestinian state.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Politics and Government",
+                "Defense and Military Forces",
+                "Palestinians",
+                "Terrorism",
+                "Espionage and Intelligence Services",
+                "International Relations",
+                "Foreign Investments"
+            ],
+            "org_facet": [
+                "Hamas",
+                "Mossad",
+                "Palestinian Authority"
+            ],
+            "per_facet": [
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip",
+                "Qatar"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamas fighters in 2021 in Gaza City.",
+                    "copyright": "Felipe Dana/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/09/multimedia/09israel-buyingquiet-sub-01-jtzl/09israel-buyingquiet-sub-01-jtzl-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/09/multimedia/09israel-buyingquiet-sub-01-jtzl/09israel-buyingquiet-sub-01-jtzl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/09/multimedia/09israel-buyingquiet-sub-01-jtzl/09israel-buyingquiet-sub-01-jtzl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a491786c-da89-5f72-b864-1d08f9cee64b",
+            "url": "https://www.nytimes.com/2023/12/07/arts/television/norman-lear-maude-abortion.html",
+            "id": 100000009214380,
+            "asset_id": 100000009214380,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-09 16:30:30",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Television;Abortion;Roe v Wade (Supreme Court Decision);Women's Rights;Lear, Norman;Arthur, Bea",
+            "column": null,
+            "byline": "By Esther Zuckerman",
+            "type": "Article",
+            "title": "Remembering Norman Lear’s Most Controversial Episode",
+            "abstract": "A two-part November 1972 episode of “Maude,” in which the title character decides to get an abortion, still seems radical, particularly after the Supreme Court overturned Roe v. Wade.",
+            "des_facet": [
+                "Television",
+                "Abortion",
+                "Roe v Wade (Supreme Court Decision)",
+                "Women's Rights"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Lear, Norman",
+                "Arthur, Bea"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bea Arthur in the “Maude” episode titled “Maude’s Dilemma,” which inspired complaints from religious groups and withdrawals from sponsors.",
+                    "copyright": "CBS",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07lear-maude2-zlfm/07lear-maude2-zlfm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07lear-maude2-zlfm/07lear-maude2-zlfm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07lear-maude2-zlfm/07lear-maude2-zlfm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/04d53b58-3070-5fb8-a284-6b5431cb7d26",
+            "url": "https://www.nytimes.com/interactive/2023/12/09/world/americas/aconcagua-mountain-expedition-photos.html",
+            "id": 100000009208766,
+            "asset_id": 100000009208766,
+            "source": "New York Times",
+            "published_date": "2023-12-09",
+            "updated": "2023-12-12 13:27:55",
+            "section": "World",
+            "subsection": "Americas",
+            "nytdsection": "world",
+            "adx_keywords": "Mountaineering;Deaths (Fatalities);Murders, Attempted Murders and Homicides;Rumors and Misinformation;vis-design;vis-video;Mount Aconcagua;Argentina;Mendoza (Argentina)",
+            "column": null,
+            "byline": "By John Branch and Emily Rhyne",
+            "type": "Interactive",
+            "title": "Ghosts on the Glacier",
+            "abstract": "Decades after the unexplained deaths of two American climbers in Argentina, a camera belonging to one of them was found in the snow. The film held astonishing images, but the mystery endures.",
+            "des_facet": [
+                "Mountaineering",
+                "Deaths (Fatalities)",
+                "Murders, Attempted Murders and Homicides",
+                "Rumors and Misinformation",
+                "vis-design",
+                "vis-video"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Mount Aconcagua",
+                "Argentina",
+                "Mendoza (Argentina)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "Janet Johnson",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/24/multimedia/10aconcagua-cover-image-cfmj/10aconcagua-cover-image-cfmj-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/24/multimedia/10aconcagua-cover-image-cfmj/10aconcagua-cover-image-cfmj-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/24/multimedia/10aconcagua-cover-image-cfmj/10aconcagua-cover-image-cfmj-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7c48e5c4-4ff3-582e-b1cf-5b6cddc4c495",
+            "url": "https://www.nytimes.com/2023/12/09/opinion/antisemitism-university-presidents.html",
+            "id": 100000009216242,
+            "asset_id": 100000009216242,
+            "source": "New York Times",
+            "published_date": "2023-12-09",
+            "updated": "2023-12-11 10:32:11",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Israel-Gaza War (2023- );Palestinians;Terrorism;Anti-Semitism;Colleges and Universities;Freedom of Speech and Expression;Magill, Elizabeth;Gay, Claudine;Stefanik, Elise;Kornbluth, Sally A;Hamas;Ivy League;University of Pennsylvania;Harvard University;Massachusetts Institute of Technology;Israel;Gaza Strip",
+            "column": null,
+            "byline": "By Maureen Dowd",
+            "type": "Article",
+            "title": "The Ivy League Flunks Out",
+            "abstract": "We shouldn’t need to tell these smart people how ignorant they sound.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Terrorism",
+                "Anti-Semitism",
+                "Colleges and Universities",
+                "Freedom of Speech and Expression"
+            ],
+            "org_facet": [
+                "Hamas",
+                "Ivy League",
+                "University of Pennsylvania",
+                "Harvard University",
+                "Massachusetts Institute of Technology"
+            ],
+            "per_facet": [
+                "Magill, Elizabeth",
+                "Gay, Claudine",
+                "Stefanik, Elise",
+                "Kornbluth, Sally A"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sophie Park for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/11/multimedia/09dowd-01-lkzq/09dowd-01-lkzq-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/11/multimedia/09dowd-01-lkzq/09dowd-01-lkzq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/11/multimedia/09dowd-01-lkzq/09dowd-01-lkzq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c70b9321-ca82-5cdf-83a6-0b07ac184e6e",
+            "url": "https://www.nytimes.com/2023/12/01/well/family/relationships-counseling-partner-advice.html",
+            "id": 100000009204634,
+            "asset_id": 100000009204634,
+            "source": "New York Times",
+            "published_date": "2023-12-01",
+            "updated": "2023-12-01 05:03:36",
+            "section": "Well",
+            "subsection": "Family",
+            "nytdsection": "well",
+            "adx_keywords": "internal-sub-only-nl;Content Type: Service;Dating and Relationships;Families and Family Life",
+            "column": null,
+            "byline": "By Jancee Dunn",
+            "type": "Article",
+            "title": "8 Things You Should Never Say to Your Partner, According to Therapists",
+            "abstract": "Having a fight? “You’re overreacting” will only make it worse.",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Content Type: Service",
+                "Dating and Relationships",
+                "Families and Family Life"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Nicolás Ortega; Photograph by Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/30/well/30WELLNL-PHRASES-TO-AVOID/30WELLNL-PHRASES-TO-AVOID-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/30/well/30WELLNL-PHRASES-TO-AVOID/30WELLNL-PHRASES-TO-AVOID-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/30/well/30WELLNL-PHRASES-TO-AVOID/30WELLNL-PHRASES-TO-AVOID-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0367d20f-f8dd-5961-ae09-adebf486e591",
+            "url": "https://www.nytimes.com/2023/12/07/us/politics/hunter-biden-indictment.html",
+            "id": 100000009215706,
+            "asset_id": 100000009215706,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-08 10:47:24",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Tax Evasion;Special Prosecutors (Independent Counsel);Impeachment;United States Politics and Government;Biden, Hunter;Weiss, David C (1956- );Biden, Joseph R Jr;Justice Department;Republican Party;House of Representatives",
+            "column": null,
+            "byline": "By Glenn Thrush and Michael S. Schmidt",
+            "type": "Article",
+            "title": "Hunter Biden Charged With Evading Taxes on Millions From Foreign Firms",
+            "abstract": "The Justice Department charged President Biden’s son after a long-running and wide-ranging investigation with substantial political repercussions.",
+            "des_facet": [
+                "Tax Evasion",
+                "Special Prosecutors (Independent Counsel)",
+                "Impeachment",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Justice Department",
+                "Republican Party",
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Biden, Hunter",
+                "Weiss, David C (1956- )",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hunter Biden, the son of President Biden, had already been charged with three federal weapons felonies in September.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/00dc-hunter-btlv/00dc-hunter-btlv-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/00dc-hunter-btlv/00dc-hunter-btlv-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/00dc-hunter-btlv/00dc-hunter-btlv-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9a8161c8-f216-535e-b0cf-4f1c05706334",
+            "url": "https://www.nytimes.com/2023/12/11/us/texas-abortion-kate-cox.html",
+            "id": 100000009219293,
+            "asset_id": 100000009219293,
+            "source": "New York Times",
+            "published_date": "2023-12-11",
+            "updated": "2023-12-12 07:24:35",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Abortion;Supreme Courts (State);Dobbs v Jackson Women's Health Organization (Supreme Court Decision);Suits and Litigation (Civil);Decisions and Verdicts;Cox, Kate (1992- );Paxton, Ken;Texas",
+            "column": null,
+            "byline": "By J. David Goodman",
+            "type": "Article",
+            "title": "Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion",
+            "abstract": "Hours before the ruling, a group representing the woman, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion.",
+            "des_facet": [
+                "Abortion",
+                "Supreme Courts (State)",
+                "Dobbs v Jackson Women's Health Organization (Supreme Court Decision)",
+                "Suits and Litigation (Civil)",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cox, Kate (1992- )",
+                "Paxton, Ken"
+            ],
+            "geo_facet": [
+                "Texas"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Texas Supreme Court is weighing several cases seeking to clarify the limits of medical exceptions to the state’s abortion bans.",
+                    "copyright": "Mikala Compton/Austin American-Statesman, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/11/multimedia/00NAT-texas-abortion-HFO-1-ptwh/00NAT-texas-abortion-HFO-1-ptwh-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/11/multimedia/00NAT-texas-abortion-HFO-1-ptwh/00NAT-texas-abortion-HFO-1-ptwh-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/11/multimedia/00NAT-texas-abortion-HFO-1-ptwh/00NAT-texas-abortion-HFO-1-ptwh-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/95e5852f-2769-533a-b59e-c5c50282d553",
+            "url": "https://www.nytimes.com/2023/12/08/briefing/the-weekender.html",
+            "id": 100000009214677,
+            "asset_id": 100000009214677,
+            "source": "New York Times",
+            "published_date": "2023-12-08",
+            "updated": "2023-12-08 16:27:34",
+            "section": "Briefing",
+            "subsection": "",
+            "nytdsection": "briefing",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By The New York Times",
+            "type": "Article",
+            "title": "The Weekender",
+            "abstract": "How Norman Lear changed TV. Also, the legacy of “Mr. Brightside,” and the most stylish “people” of the year.",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Florentina Olareanu for The New York Times, ADOR, Lucas Jackson/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/09/us/09weekender-promo-top/09weekender-promo-top-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/09/us/09weekender-promo-top/09weekender-promo-top-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/09/us/09weekender-promo-top/09weekender-promo-top-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5416e780-6911-5dac-97f6-0ffddeaac629",
+            "url": "https://www.nytimes.com/2023/12/13/opinion/european-union-far-right.html",
+            "id": 100000009214624,
+            "asset_id": 100000009214624,
+            "source": "New York Times",
+            "published_date": "2023-12-13",
+            "updated": "2023-12-14 10:48:46",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Nationalism (Theory and Philosophy);International Relations;Right-Wing Extremism and Alt-Right;Immigration and Emigration;Politics and Government;European Union;European Commission;European Parliament;Europe",
+            "column": null,
+            "byline": "By Hans Kundnani",
+            "type": "Article",
+            "title": "Europe May Be Headed for Something Unthinkable",
+            "abstract": "Beneath the surface, a disturbing development is taking place.",
+            "des_facet": [
+                "Nationalism (Theory and Philosophy)",
+                "International Relations",
+                "Right-Wing Extremism and Alt-Right",
+                "Immigration and Emigration",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "European Union",
+                "European Commission",
+                "European Parliament"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Federico Tramonte",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/13/opinion/13kundnani-image/13kundnani-image-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/13/opinion/13kundnani-image/13kundnani-image-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/13/opinion/13kundnani-image/13kundnani-image-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/33bb42c4-ad82-5177-8813-6f38c53b9e70",
+            "url": "https://www.nytimes.com/interactive/2023/us/2023-gift-guide.html",
+            "id": 100000009150132,
+            "asset_id": 100000009150132,
+            "source": "New York Times",
+            "published_date": "2023-11-01",
+            "updated": "2023-12-12 14:16:22",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Gifts;Holidays and Special Occasions;Christmas;Hanukkah;Content Type: Service;internal-open-access",
+            "column": null,
+            "byline": "",
+            "type": "Interactive",
+            "title": "2023 Holiday Gift Guide",
+            "abstract": "Wondering what to get for all the beloved but quirky, picky, fancy, practical or eccentric people in your life? Our experts have curated the best gifts to help you check everyone off your list.",
+            "des_facet": [
+                "Gifts",
+                "Holidays and Special Occasions",
+                "Christmas",
+                "Hanukkah",
+                "Content Type: Service",
+                "internal-open-access"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/01/us/2023-gift-guide-1698864421949/2023-gift-guide-1698864421949-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/01/us/2023-gift-guide-1698864421949/2023-gift-guide-1698864421949-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/01/us/2023-gift-guide-1698864421949/2023-gift-guide-1698864421949-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a25b4997-698a-5fe9-abcb-84e27420b2db",
+            "url": "https://www.nytimes.com/2023/12/07/business/bariatric-surgery-bellevue-hospital.html",
+            "id": 100000009118589,
+            "asset_id": 100000009118589,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-08 12:15:59",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "your-feed-healthcare;your-feed-science;Hospitals;Bariatric Surgery;Finances;Obesity;Surgery and Surgeons;Medicaid;Suits and Litigation (Civil);Ethics and Official Misconduct;Malpractice;audio-neutral-informative;Parikh, Manish;Bellevue Hospital Center;Rikers Island Prison Complex;New York City",
+            "column": null,
+            "byline": "By Jessica Silver-Greenberg, Sarah Kliff and Aimee Ortiz",
+            "type": "Article",
+            "title": "A Famed Hospital Churns Poor Patients Through Weight-Loss Surgery",
+            "abstract": "New York’s Bellevue Hospital performs thousands of the lucrative surgeries a year, even on Rikers Island prisoners and other inappropriate patients.",
+            "des_facet": [
+                "your-feed-healthcare",
+                "your-feed-science",
+                "Hospitals",
+                "Bariatric Surgery",
+                "Finances",
+                "Obesity",
+                "Surgery and Surgeons",
+                "Medicaid",
+                "Suits and Litigation (Civil)",
+                "Ethics and Official Misconduct",
+                "Malpractice",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Bellevue Hospital Center",
+                "Rikers Island Prison Complex"
+            ],
+            "per_facet": [
+                "Parikh, Manish"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bellevue’s celebration for patients to show off their newly slim bodies.",
+                    "copyright": "Maansi Srivastava/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/29/multimedia/00overuse-bariatric-15-cmqj/00overuse-bariatric-15-cmqj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/29/multimedia/00overuse-bariatric-15-cmqj/00overuse-bariatric-15-cmqj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/11/29/multimedia/00overuse-bariatric-15-cmqj/00overuse-bariatric-15-cmqj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/823a598b-48dd-57d8-b4cb-7460a4b803d2",
+            "url": "https://www.nytimes.com/2023/12/07/us/politics/elise-stefanik-antisemitism-congress.html",
+            "id": 100000009214367,
+            "asset_id": 100000009214367,
+            "source": "New York Times",
+            "published_date": "2023-12-07",
+            "updated": "2023-12-09 15:47:39",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Anti-Semitism;United States Politics and Government;Stefanik, Elise;Gay, Claudine;Magill, Elizabeth;Republican Party;House of Representatives;Harvard University;Massachusetts Institute of Technology;University of Pennsylvania",
+            "column": null,
+            "byline": "By Annie Karni",
+            "type": "Article",
+            "title": "Questioning University Presidents on Antisemitism, Stefanik Goes Viral",
+            "abstract": "The No. 4 Republican, a Harvard alumna with a fraught relationship with her alma mater, had a confrontation over campus responses to antisemitism that resonated across the political spectrum.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Anti-Semitism",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "House of Representatives",
+                "Harvard University",
+                "Massachusetts Institute of Technology",
+                "University of Pennsylvania"
+            ],
+            "per_facet": [
+                "Stefanik, Elise",
+                "Gay, Claudine",
+                "Magill, Elizabeth"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Elise Stefanik has had a fraught relationship with Harvard, her alma mater.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07dc-Stefanik-cfjk/07dc-Stefanik-cfjk-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07dc-Stefanik-cfjk/07dc-Stefanik-cfjk-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07dc-Stefanik-cfjk/07dc-Stefanik-cfjk-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1dcff257-9c52-55de-bf6a-18c2e6b1022e",
+            "url": "https://www.nytimes.com/2023/12/09/us/elizabeth-magill-penn-president.html",
+            "id": 100000009214369,
+            "asset_id": 100000009214369,
+            "source": "New York Times",
+            "published_date": "2023-12-09",
+            "updated": "2023-12-10 12:26:59",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Anti-Semitism;Demonstrations, Protests and Riots;Israel-Gaza War (2023- );Magill, Elizabeth;Gay, Claudine;Kornbluth, Sally A;Stefanik, Elise;University of Pennsylvania;Harvard University;Massachusetts Institute of Technology",
+            "column": null,
+            "byline": "By Anna Betts",
+            "type": "Article",
+            "title": "What to Know About Elizabeth Magill, the Penn President Who Resigned",
+            "abstract": "Ms. Magill, who had been in her post since last year, stepped down four days after testifying before Congress.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Anti-Semitism",
+                "Demonstrations, Protests and Riots",
+                "Israel-Gaza War (2023- )"
+            ],
+            "org_facet": [
+                "University of Pennsylvania",
+                "Harvard University",
+                "Massachusetts Institute of Technology"
+            ],
+            "per_facet": [
+                "Magill, Elizabeth",
+                "Gay, Claudine",
+                "Kornbluth, Sally A",
+                "Stefanik, Elise"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Magill testifying before a House committee on education on Tuesday. ",
+                    "copyright": "Mark Schiefelbein/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07NAT-MAGILL-WWK-jlfh/07NAT-MAGILL-WWK-jlfh-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07NAT-MAGILL-WWK-jlfh/07NAT-MAGILL-WWK-jlfh-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07NAT-MAGILL-WWK-jlfh/07NAT-MAGILL-WWK-jlfh-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a2e4be55-d092-5284-9d18-7dee48cfc105",
+            "url": "https://www.nytimes.com/2023/12/10/us/harvard-president-claudine-gay.html",
+            "id": 100000009218301,
+            "asset_id": 100000009218301,
+            "source": "New York Times",
+            "published_date": "2023-12-10",
+            "updated": "2023-12-11 14:42:15",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Israel-Gaza War (2023- );Colleges and Universities;Academic Freedom;Freedom of Speech and Expression;Anti-Semitism;Gay, Claudine;Stefanik, Elise;Magill, Elizabeth;Harvard University;Massachusetts Institute of Technology;University of Pennsylvania",
+            "column": null,
+            "byline": "By Jeremy W. Peters, Dana Goldstein and Rob Copeland",
+            "type": "Article",
+            "title": "As Harvard President Faces Pressure to Resign, Some Faculty Show Support",
+            "abstract": "Claudine Gay, Harvard’s president, faced rising pressure after her answers to questions about antisemitism. Some faculty members signed a petition supporting her.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Colleges and Universities",
+                "Academic Freedom",
+                "Freedom of Speech and Expression",
+                "Anti-Semitism"
+            ],
+            "org_facet": [
+                "Harvard University",
+                "Massachusetts Institute of Technology",
+                "University of Pennsylvania"
+            ],
+            "per_facet": [
+                "Gay, Claudine",
+                "Stefanik, Elise",
+                "Magill, Elizabeth"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Harvard University campus in Cambridge, Mass.",
+                    "copyright": "Kayana Szymczak for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10nat-harvard-1-jpqz/10nat-harvard-1-jpqz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10nat-harvard-1-jpqz/10nat-harvard-1-jpqz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10nat-harvard-1-jpqz/10nat-harvard-1-jpqz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

@@ -7,6 +7,6 @@
 
 import Foundation
 enum APIConstants {
-  static let host = "openexchangerates.org"
-  static let appId = "ef6aee01f61546c49512947b57f4030c"
+    static let host = "api.nytimes.com"
+    static let apiKey = "6ynxQYLWbjUxQp2S3uE2jSEqWvmoAWBZ"
 }

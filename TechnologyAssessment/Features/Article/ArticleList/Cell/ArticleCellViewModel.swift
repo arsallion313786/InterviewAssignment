@@ -17,7 +17,7 @@ struct ArticleCellViewModel{
     }
     
     var publishDate:String{
-        self.article.publishDate
+        self.article.publishedDate
     }
     
     var source:String{
@@ -25,7 +25,7 @@ struct ArticleCellViewModel{
     }
     
     var url: URL {
-        URL(string: self.article.media.mediaMetaData.first!.url)!
+        URL(string: self.article.media.first!.mediaMetaData.first!.url)!
     }
 
     
