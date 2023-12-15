@@ -26,6 +26,9 @@
 		DD28E1A22B2B9D2800F9D456 /* ArticlesViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1A12B2B9D2800F9D456 /* ArticlesViewBuilder.swift */; };
 		DD28E1A42B2B9D9B00F9D456 /* UIStoryboard+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1A32B2B9D9B00F9D456 /* UIStoryboard+Extension.swift */; };
 		DD28E1A72B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1A62B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift */; };
+		DD28E1AB2B2BEBB700F9D456 /* ArticleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1A92B2BEBB700F9D456 /* ArticleCell.swift */; };
+		DD28E1AC2B2BEBB700F9D456 /* ArticleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DD28E1AA2B2BEBB700F9D456 /* ArticleCell.xib */; };
+		DD28E1AF2B2BED0300F9D456 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28E1AE2B2BED0300F9D456 /* Article.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +72,9 @@
 		DD28E1A12B2B9D2800F9D456 /* ArticlesViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewBuilder.swift; sourceTree = "<group>"; };
 		DD28E1A32B2B9D9B00F9D456 /* UIStoryboard+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIStoryboard+Extension.swift"; sourceTree = "<group>"; };
 		DD28E1A62B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleListViewCoordinator.swift; sourceTree = "<group>"; };
+		DD28E1A92B2BEBB700F9D456 /* ArticleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleCell.swift; sourceTree = "<group>"; };
+		DD28E1AA2B2BEBB700F9D456 /* ArticleCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ArticleCell.xib; sourceTree = "<group>"; };
+		DD28E1AE2B2BED0300F9D456 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +181,7 @@
 		DD28E1852B2B84D200F9D456 /* domain */ = {
 			isa = PBXGroup;
 			children = (
+				DD28E1AD2B2BECEC00F9D456 /* models */,
 				DD28E1862B2B84ED00F9D456 /* common */,
 			);
 			path = domain;
@@ -241,6 +248,7 @@
 			isa = PBXGroup;
 			children = (
 				DD28E19A2B2B9C6900F9D456 /* ArticleListVC.swift */,
+				DD28E1A82B2BEB8400F9D456 /* Cell */,
 			);
 			path = ArticleList;
 			sourceTree = "<group>";
@@ -267,6 +275,23 @@
 				DD28E1A62B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift */,
 			);
 			path = Coordinators;
+			sourceTree = "<group>";
+		};
+		DD28E1A82B2BEB8400F9D456 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				DD28E1A92B2BEBB700F9D456 /* ArticleCell.swift */,
+				DD28E1AA2B2BEBB700F9D456 /* ArticleCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		DD28E1AD2B2BECEC00F9D456 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				DD28E1AE2B2BED0300F9D456 /* Article.swift */,
+			);
+			path = models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -373,6 +398,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD28E1AC2B2BEBB700F9D456 /* ArticleCell.xib in Resources */,
 				DD28E15F2B2B7D9B00F9D456 /* LaunchScreen.storyboard in Resources */,
 				DD28E19F2B2B9CB000F9D456 /* Article.storyboard in Resources */,
 				DD28E15C2B2B7D9B00F9D456 /* Assets.xcassets in Resources */,
@@ -404,6 +430,7 @@
 				DD28E1532B2B7D9700F9D456 /* AppDelegate.swift in Sources */,
 				DD28E1A72B2B9E5D00F9D456 /* ArticleListViewCoordinator.swift in Sources */,
 				DD28E1A42B2B9D9B00F9D456 /* UIStoryboard+Extension.swift in Sources */,
+				DD28E1AB2B2BEBB700F9D456 /* ArticleCell.swift in Sources */,
 				DD28E1902B2B91D700F9D456 /* BaseCoordinator.swift in Sources */,
 				DD28E1892B2B912D00F9D456 /* Coordinator.swift in Sources */,
 				DD28E1922B2B934100F9D456 /* CoordinatorOutput.swift in Sources */,
@@ -413,6 +440,7 @@
 				DD28E18E2B2B918E00F9D456 /* Presentable.swift in Sources */,
 				DD28E1A22B2B9D2800F9D456 /* ArticlesViewBuilder.swift in Sources */,
 				DD28E1552B2B7D9700F9D456 /* SceneDelegate.swift in Sources */,
+				DD28E1AF2B2BED0300F9D456 /* Article.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
