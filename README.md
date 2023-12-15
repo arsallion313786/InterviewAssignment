@@ -23,7 +23,7 @@ Xcode 17
 KingFisher for image lazy loading
 
 ### Tests
-Conver almost all possilble test. Currently code covergae percentage is 60.9%. You just select option from top Product>Test and press on it all test will start. And in navigator click last option Report navigator.
+Cover almost all possilble usecases. Currently code covergae percentage is 60.9%. You just select option from top menu Product>Test and press on it all test will start. And in navigator click last option Report navigator.
 
 Where you can see all test result and code coverage report
 
