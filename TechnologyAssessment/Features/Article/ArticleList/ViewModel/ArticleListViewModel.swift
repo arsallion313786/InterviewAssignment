@@ -59,7 +59,7 @@ final class ArticlesListViewModel {
     
     // MARK: Utility methods
     
-    private func fetchRecipes() {
+    private func fetchArticles() {
       fetchTask = Task { @MainActor in
         do {
             articleViewModels = try await repo.fetchArticlesDataFromServer(section: "all-sections", period: "1").map {
@@ -77,7 +77,7 @@ final class ArticlesListViewModel {
 }
 
 
-// MARK: RecipesListViewModeling conformance
+// MARK: ArticlesListViewModeling conformance
 
 extension ArticlesListViewModel: ArticlesListViewModeling {
   var screenTitle: String {
@@ -97,7 +97,7 @@ extension ArticlesListViewModel: ArticlesListViewModeling {
   }
   
   func viewDidLoad() {
-    fetchRecipes()
+      fetchArticles()
   }
   
   func articleViewModel(for indexPath: IndexPath) -> ArticleCellViewModel {

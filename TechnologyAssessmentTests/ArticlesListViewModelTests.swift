@@ -51,7 +51,7 @@ final class ArticlesListViewModelTests: XCTestCase {
       
       // When
       viewModel.viewDidLoad()
-        wait(for: [expectation], timeout:50)
+        wait(for: [expectation], timeout:0.2)
       
       // Then
       XCTAssertEqual(viewState, .refreshList)
@@ -168,11 +168,12 @@ final class ArticlesListViewModelTests: XCTestCase {
         )
         
       let expectation = expectation(description: "Fetch articles")
-     
+        var viewState = ArticlesViewState.idle
       cancellable = viewModel.viewStatePublisher
         .sink { state in
           switch state {
           case .refreshList:
+              viewState = state
             expectation.fulfill()
           default: break
           }
@@ -181,7 +182,13 @@ final class ArticlesListViewModelTests: XCTestCase {
       // When
       viewModel.viewDidLoad()
         wait(for: [expectation], timeout:50)
-        XCTAssertEqual(viewModel.numberOfRows > 0, true)
+        if viewState == .refreshList{
+            XCTAssertEqual(viewModel.numberOfRows > 0, true)
+        }
+        else{
+            XCTAssertEqual(viewModel.numberOfRows == 0, true)
+        }
+        
     }
     
     
